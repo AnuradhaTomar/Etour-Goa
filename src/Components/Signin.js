@@ -7,7 +7,7 @@ export const Signin = () => {
 
     }
     return (
-        <div>
+        <div className="container">
             <form onSubmit={Submit} className="col-lg-6 offset-lg-3">
             <h2>Add your profile</h2>
                 <div className="mb-3 my-3">
